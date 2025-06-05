@@ -40,6 +40,16 @@ namespace osu.Game.Rulesets.Mania.Mods
             typeof(ManiaModKey8),
             typeof(ManiaModKey9),
             typeof(ManiaModKey10),
+            typeof(ManiaModKey11),
+            typeof(ManiaModKey12),
+            typeof(ManiaModKey13),
+            typeof(ManiaModKey14),
+            typeof(ManiaModKey15),
+            typeof(ManiaModKey16),
+            typeof(ManiaModKey17),
+            typeof(ManiaModKey18),
+            typeof(ManiaModKey19),
+            typeof(ManiaModKey20),
         }.Except(new[] { GetType() }).ToArray();
     }
 }
